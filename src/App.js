@@ -130,8 +130,7 @@ function App() {
           />
         </Form.Group>
         <Button variant="primary" type="submit">
-          Addgit remote add origin
-          https://github.com/totocungtongo/AssignmentReact.git
+          Add
         </Button>
       </Form>
       <Row className="cardProduct">
